@@ -1,5 +1,5 @@
 {
-  "name": "phpcompatibility/php-compatibility",
+  "name": "parcnetwork/php-compatibility",
   "description": "A set of sniffs for PHP_CodeSniffer that checks for PHP cross-version compatibility.",
   "license": "LGPL-3.0-or-later",
   "type": "phpcodesniffer-standard",
